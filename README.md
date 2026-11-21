@@ -126,3 +126,6 @@ All text, projects, links and stats live in `data/content.js`. Set a project's `
 
 ## Deploy
 Push to GitHub, then import the repo at vercel.com — no extra configuration needed.
+
+## 🌐 Live Demo
+**Explore my portfolio:** [MY UNIVERSE — MEGHANA](https://portfolio-kl4ndzqqh-meghanapatgar30.vercel.app)
